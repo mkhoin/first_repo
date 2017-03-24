@@ -9,3 +9,5 @@ install:
 - echo "This is install process"
 script:
 - echo "this is script process"
+notifications:
+  slack: teamfirst-mk:ne4HYzAbLFmFscHwyshL1hDO
